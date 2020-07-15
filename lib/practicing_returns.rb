@@ -1,4 +1,4 @@
-require 'pry'
+
 
 def hello(array)
   i = 0
@@ -10,4 +10,4 @@ def hello(array)
   collection 
 end
 
-hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
+
